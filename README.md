@@ -1,4 +1,4 @@
-**Overview repository content and instructions:**
+**READ ME: script overview and instructions:**
 
 This repository contains the scripts and files to replicate all
 processing and analysis steps of the publication “Gaze Graphs in spatial
@@ -309,7 +309,7 @@ script)</p></td>
 </tbody>
 </table>
 
--   **Use the above table as the definitive index and run order. It
+**Use the above table as the definitive index and run order. It
     lists each script, where it lives in the repo, which results
     section/figure it contributes to, and any notable outputs. The notes
     below provide the surrounding “how and why.”**
@@ -379,8 +379,8 @@ script)</p></td>
     continue running but printout the missing data file in the console
     and save the information in a missing_participant_Files list. Modify
     the participant list to process a subset of the list or individual
-    participants**  
-    **
+    participants
+    
 
 **Run recipes (how the parts fit together)**
 
@@ -463,11 +463,9 @@ table for specific results sections and figure mapping)**
     -   overview_Step1_extractData_PTB_controls_WB.m → selects relevant
         data from large performance overview file
 
-    <!-- -->
-
-    -   overview_Step2_add_trialInfo_FRS_P2BPrep_WB.m → → merge FRS;
+    -   overview_Step2_add_trialInfo_FRS_P2BPrep_WB.m → merge FRS;
         RouteID; trial order; repetition metrics;
-        overviewTable_P2B_Prep_complete\*.csv
+        overviewTable_P2B_Prep_complete\.csv
 
 -   Spatial navigation performance analysis
 
