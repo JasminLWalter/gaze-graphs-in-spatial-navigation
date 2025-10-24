@@ -1,0 +1,10 @@
+name: gaze-graphs-in-spatial-nav-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - notebook
+  - ipykernel
+  - statsmodels
+  - pandas
+prefix: C:\Users\jasmi\.conda\envs\gaze-graphs-in-spatial-nav-env
