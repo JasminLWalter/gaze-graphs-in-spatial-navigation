@@ -7,10 +7,11 @@ differences in navigation performance”. Note, that the scripts of this
 repository are designed to process the data uploaded in the following
 OSF repositories:
 
--   <https://osf.io/qcn67> – the OSF repository with the uploaded eye
-    and motion tracking analyzed in the referenced publication (26
-    participants, 2.5 hours of free exploration of the virtual city
-    Westbrook in immersive VR)
+-   <https://osf.io/qcn67> / <https://doi.org/10.17605/OSF.IO/QCN67>
+    – the OSF repository with the uploaded eye and motion tracking
+    analyzed in the referenced publication (26 participants,
+    2.5 hours of free exploration of the virtual city Westbrook
+    in immersive VR) 
 
 -   <https://osf.io/32sqe> – the OSF repository with the uploaded
     pointing-to-building task performance data and FRS questionnaire
